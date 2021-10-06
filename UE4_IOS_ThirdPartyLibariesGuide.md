@@ -27,6 +27,8 @@ PublicSystemLibraries.Add("bz2");
 ```
 
 ## Frameworks
+[Apple Framework List](https://developer.apple.com/library/archive/documentation/MacOSX/Conceptual/OSX_Technology_Overview/SystemFrameworks/SystemFrameworks.html)
+
 If you need to include one of the Frameworks, such as those provided by Apple in a framework format, do the below:
 ```c#
 PublicFrameworks.AddRange(
